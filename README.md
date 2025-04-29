@@ -1,5 +1,5 @@
 # Web-dev-UI-portfolio
-# This Assignment was created by a group of 5 members. We divided the coding coding to sections. Our man platform for group colaboration was discord because we could help each other in real-time if we got stuck and also get to see the codes running as we put the divided sections together. Upon reading the instruction we concluded that we should add javascript to assignment since it stated that we should apply all that we learnt in the previous classes.
+# This Assignment was created by a group of 5 members. We divided the sections, each person had a section/sections to code and then brought them together. Our main platform for group colaboration was discord because we could help each other in real-time if we got stuck and also get to see the codes running as we put the divided sections together. Upon reading the instruction we concluded that we should add javascript to assignment since it stated that we should apply all that we learnt in the previous classes.
 
 # The names of the group member are:
 
