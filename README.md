@@ -23,8 +23,5 @@ ON THE FIRST SECTION WHICH IS THE LANDING SECTION, MY CONTRIBUTION WAS TO ADD TH
  I was responsible for the fourth section in the project. My part was the "My Featured skills" section. I did the HTML and CSS code with the media in the section.
 
  # Lukhanyo Mzanywa 
-I was responsible for First section and the and the seventh section 
-# First 
-The First section contains the Navigation, a text introducing 
+ I was responsible for the first (Nav and Hero section) and the seventh section (stats until the footer), coded both the HTML and CSS and relating Java script code added lovely interactive process like having the stats count up when the page is loaded is one of them using.
 
-# seventh 
