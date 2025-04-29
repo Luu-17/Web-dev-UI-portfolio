@@ -13,14 +13,14 @@
 # How we collaborated or worked on the assignment as a team:
 
 # THAMSANQA'S CONTRIBUTION TO THE ASSIGNMENT
-I CREATED THE THIRD SECTION OF THE HMTL CODE AND ITS CSS . I MANAGED TO CREATE THE PAGES AND MADE THEM RESPONSIVE USING THE FLEXBOX.
-ON THE FIRST SECTION WHICH IS THE LANDING SECTION, MY CONTRIBUTION WAS TO ADD THE SCRIPT THAT MAKES THE TEXT PRINT LETTER BY LETTER AND ALSO ADD THE FONT STYLE . I also added the dark mode script/feature  on the landing section.
+I CREATED THE THIRD SECTION AND THE FOOTER OF THE HMTL CODE AND ITS CSS . I MANAGED TO CREATE THE PAGES AND MADE THEM RESPONSIVE USING THE FLEXBOX.
+ON THE FIRST SECTION WHICH IS THE LANDING SECTION, MY CONTRIBUTION WAS TO ADD THE SCRIPT THAT MAKES THE TEXT PRINT LETTER BY LETTER AND ALSO ADD THE FONT STYLE . I also added the dark mode script/feature  on the landing section. 
 
 # KATLEGO'S CONTRIBUTION TO THE ASSIGNMENT 
  I was responsible for creating the second section of the website, which serves as the biography and contact profile. I built both the HTML structure and CSS styling for this section, ensuring a modern and clean layout. The design features a two-column card, one side displaying a profile image and the other presenting personal details such as name, location, email, phone number, and a short biography. I also included social media icons and styled buttons for hiring and CV download functionality.
 
  # Ntwenhle's Contribution
- I was responsible for the fourth section in the project. My part was the "My Featured skills" section. I did the HTML and CSS code with the media in the section.
+ I was responsible for the fourth section in the project. My part was the "My Featured skills" section. I did the HTML and CSS code with the media in the section. I also I checked the code for errors and consistency.
 
  # Lukhanyo Mzanywa 
  I was responsible for the first (Nav and Hero section) and the seventh section (stats until the footer), coded both the HTML and CSS and relating Java script code added lovely interactive process like having the stats count up when the page is loaded is one of them using.
