@@ -1,11 +1,11 @@
 # Web-dev-UI-portfolio
-# This is Assignent was created by a group of 5 members. We devided the coding coding to sections. Our man platform for group colaboration was discord because we could help each other in real-time if we got stuck and also get to see the codes running as we put the divided sections together. Upon reading the instruction we concluded that we should add javascript to assignment since it stated that we should apply all that we learnt in the previous classes.
+# This Assignment was created by a group of 5 members. We divided the coding coding to sections. Our man platform for group colaboration was discord because we could help each other in real-time if we got stuck and also get to see the codes running as we put the divided sections together. Upon reading the instruction we concluded that we should add javascript to assignment since it stated that we should apply all that we learnt in the previous classes.
 
 # The names of the group member are:
 
 # Thamsanqa Emmanuel Sanewe
 # Katlego Dipheko
-#
+# Ntwenhle G Msthali
 #
 #
 
@@ -18,3 +18,6 @@ ON THE FIRST SECTION WHICH IS THE LANDING SECTION, MY CONTRIBUTION WAS TO ADD TH
 
 # KATLEGO'S CONTRIBUTION TO THE ASSIGNMENT 
  I was responsible for creating the second section of the website, which serves as the biography and contact profile. I built both the HTML structure and CSS styling for this section, ensuring a modern and clean layout. The design features a two-column card, one side displaying a profile image and the other presenting personal details such as name, location, email, phone number, and a short biography. I also included social media icons and styled buttons for hiring and CV download functionality.
+
+ **Ntwenhle's Contribution**
+ I was responsible for the fourth section in the project. My part was the "My Featured skills" section. I did the HTML and CSS code with the media in the section.
